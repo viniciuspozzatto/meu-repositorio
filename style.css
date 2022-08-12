@@ -1,5 +1,8 @@
       body{font-family: sans-serif; color: #495057;}
       .imagem-arredondada{border-radius: 25%; margin: auto; display: block;}
-      h1, h2, h3{letter-spacing: -1px; background-color: #dee2e6;}
-      li, p{font-style: italic; font-weight: 500;}
+      h1{letter-spacing: -1px; background-color: #dee2e6;}
+      h2{letter-spacing: -1px; background-color: #dee2e6; font-size: 170%;}
+      h3{letter-spacing: -1px; background-color: #dee2e6; font-size: 130%;}
+      li{font-style: italic; font-weight: 500; line-height: 22px}
+      p{font-style: italic; font-weight: 500;}
       .mid-page{text-align: center;}
