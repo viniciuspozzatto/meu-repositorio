@@ -1,11 +1,67 @@
-      body{font-family: sans-serif; color: #495057; margin: 0;}
-      h1{margin: 1%;}
-      .imagem-arredondada{border-radius: 50%;}
-      .minha-foto{float: left; height: 400px;}
-      li{font-style: italic; font-weight: 500; line-height: 22px}
-      p{font-style: italic; font-weight: 500;}
-      .apresentacao{height: 400px; background-color: rgb(226, 226, 226); padding: 3%;max-width: 100%;}
-      .sobre{display: inline-block; margin-top: 12%;margin-left: 3%; width: 40%; }
-      .habilidades{margin: 3%;}
-      .contato{margin: 3%;}
+      body{
+            font-family: sans-serif; 
+            color: #495057; 
+            margin: 0;
+      }
+      
+      h1{
+            margin: 1%;
+      }
+      
+      .imagem-arredondada{
+            border-radius: 30%;
+      }
+
+      .minha-foto{
+            float: left; 
+            height: 400px;
+      }
+      h2 {
+            font-size: 35px;
+      }
+
+      li{
+            font-style: italic; 
+            font-weight: 500; 
+            line-height: 22px;
+      }
+      
+      p{
+            font-style: italic; 
+            font-weight: 500;
+            font-size: 20px;
+      }
+      
+      .apresentacao{
+            height: 400px; 
+            background-color: rgb(226, 226, 226); 
+            padding: 3%;
+            max-width: 100%;
+      }
+      
+      .sobre{
+            float: left;
+            margin-top: 10%;
+            margin-left: 2%;
+            max-width: 100%;
+      }
+      
+      .habilidades{
+            margin: 3%;
+      }
+      
+      .contato{
+            background-color: rgb(226, 226, 226);
+            margin: 0%;
+      }
+
+      .contato h3 {
+            margin: 3%;
+      }
+
+      .contato li {
+            display: inline-block;
+            margin: 5%;
+            to
+      }
       /* div{border: 2px solid red;} */
